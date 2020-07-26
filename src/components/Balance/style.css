@@ -1,0 +1,27 @@
+h1 {
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+h1.positive {
+  color: green;
+}
+
+h1.negative {
+  color: red;
+}
+
+
+h4 {
+  margin: 0;
+  text-transform: uppercase;
+}
+
+h1 span {
+  font-size: 0.4em;
+  float: right;
+  color: white;
+  background: #9c88ff;
+  font-weight: bold;
+  padding: 10px 20px;
+}
