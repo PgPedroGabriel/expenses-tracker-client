@@ -1,4 +1,4 @@
-#Expenses Tracker
+# Expenses Tracker
 
 ## Developed with ReactJS
 
